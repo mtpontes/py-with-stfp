@@ -9,7 +9,7 @@ docker-compose up -d
 python index.py
 ```
 
-## Conect to server with SSH
+## Connect to server with SSH
 ```
 sftp -P 2222 test@localhost
 ```
