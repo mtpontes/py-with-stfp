@@ -1,7 +1,7 @@
 # Doc
 
 ## How to run
-- Informe sua chave pública no arquivo .env
+- Se você for usar uma chave SSH, informe sua chave pública no arquivo .env
     - Se sua chave possuir um passphrase, passe esse valor na variável `PASSWORD`, se não, deixe em branco
 
 ```
