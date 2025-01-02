@@ -1,4 +1,4 @@
-# Doc
+# Python + SFTP
 
 ## How to run
 - Se você for usar uma chave SSH, informe sua chave pública no arquivo .env
